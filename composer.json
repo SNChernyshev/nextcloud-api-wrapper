@@ -1,5 +1,5 @@
 {
-    "name": "sysmoh/nextcloud-api-wrapper",
+    "name": "SNChernyshev/nextcloud-api-wrapper",
     "description": "A simple wrapper around nextcloud user provisioning api",
     "keywords": ["nextcloud", "api", "wrapper"],
     "type": "library",
